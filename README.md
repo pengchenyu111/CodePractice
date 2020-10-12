@@ -1,2 +1,2 @@
 # CodePractice
-Code Practice From LeeCode
+Code Practice From LeetCode
